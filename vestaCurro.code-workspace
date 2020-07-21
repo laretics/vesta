@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Y:\\Proyectos\\Hardware\\Arduino\\libraries\\VestaDHT"
+		},
+		{
+			"path": "..\\..\\libraries\\VestaCustomParking"
+		},
+		{
+			"path": "..\\..\\libraries\\VestaTemplate"
+		},
+		{
+			"path": "..\\..\\libraries\\VestaInput"
+		},
+		{
+			"path": "..\\..\\libraries\\VestaOutput"
+		},
+		{
+			"path": "..\\..\\libraries\\VestaGate"
+		}
+	],
+	"settings": {}
+}
